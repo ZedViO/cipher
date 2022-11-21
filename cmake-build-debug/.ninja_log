@@ -1,0 +1,4 @@
+# ninja log v5
+0	920	6907754999661908	CMakeFiles/shifr.dir/main.cpp.obj	9cde0e9cc92e2952
+1150	1317	6907756207126004	shifr.exe	4417d91267f3f423
+5	1149	6907756205519684	CMakeFiles/shifr.dir/xor.cpp.obj	d0013eae2f9a3485
